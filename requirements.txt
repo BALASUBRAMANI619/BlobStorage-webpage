@@ -1,0 +1,3 @@
+azure-storage-blob
+Flask==2.2.3
+gunicorn
